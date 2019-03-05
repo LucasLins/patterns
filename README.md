@@ -3,18 +3,18 @@
 **[SUPPORTED WEAPONS]**
 
 **1920x1080**
-- ![#efb915](https://placehold.it/15/efb915/000000?text=+) Alternator | Scout | P2020 | RE-45 | R-301 | R-99
+- ![#efb915](https://i.imgur.com/V0tO8x2.png) Alternator | Scout | P2020 | RE-45 | R-301 | R-99
 
-- ![#00ad79](https://placehold.it/15/00ad79/000000?text=+) Flatline | Spitfire | Wingman | Prowler `Burst mode` | Hemlok `single and burst mode`
+- ![#00ad79](https://i.imgur.com/M4aH1wx.png) Flatline | Spitfire | Wingman | Prowler `Burst mode` | Hemlok `single and burst mode`
 
-- ![#00e02c](https://placehold.it/15/00e02c/000000?text=+) Devotion | Havoc.
+- ![#00e02c](https://i.imgur.com/BgZzjuj.png) Devotion | Havoc.
 
 **1360x768**
-- ![#efb915](https://placehold.it/15/efb915/000000?text=+) Alternator | Scout | P2020 | RE-45 | R-301`Extended Light Mag detection` | R-99
+- ![#efb915](https://i.imgur.com/V0tO8x2.png) Alternator | Scout | P2020 | RE-45 | R-301`Extended Light Mag detection` | R-99
 
-- ![#00ad79](https://placehold.it/15/00ad79/000000?text=+) Flatline | Spitfire | Wingman | Prowler `Burst mode` | Hemlok `single and burst mode`
+- ![#00ad79](https://i.imgur.com/M4aH1wx.png) Flatline | Spitfire | Wingman | Prowler `Burst mode` | Hemlok `single and burst mode`
 
-- ![#00e02c](https://placehold.it/15/00e02c/000000?text=+) Devotion | Havoc.
+- ![#00e02c](https://i.imgur.com/BgZzjuj.png) Devotion | Havoc.
 
 ***Note:** Burst mode - hold left click until the burst end.*
 
