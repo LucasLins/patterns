@@ -23,4 +23,13 @@
 - Download the apex.json and apex_img folder for your desired resolution
 - Paste the files inside your weapon_data folder
 - To run the script use the command: `python ./very_secret_script.py apex1920` for **1920x1080**
-- To run the script use the command: `python ./very_secret_script.py apex1360`for **1360x768**
+- To run the script use the command: `python ./very_secret_script.py apex1360` for **1360x768**
+
+**[FUTURE UPDATES]**
+
+**1360x768**
+- More accurate pattern for R-301 with Extended Light Mag
+- Add R-99 Extended Light Mag detection
+
+**1920x1080**
+- Add R-99 and R-301 Extended Light Mag detection
